@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap');
 
 :root {
-  --font-base: 'Cormorant Upright', serif;
+  --font-base: 'Ubuntu', sans-serif;
   --font-alt: 'Open Sans', sans-serif;
   
   --color-golden: #DCCA87;
